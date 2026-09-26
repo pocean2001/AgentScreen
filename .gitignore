@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.as_glyphs*.json
+.as_city
+.as_port
+.as_ready
+.as_quiet
+_digest.log
+*.bak-*
+dist/
